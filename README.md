@@ -7,7 +7,7 @@ Hi. Welcome to my dumb zone of `scripts` I make for fun, or for something. These
 ### `gate-guardian.sh`
 A script that doesn't let you use uwu, if you set it to the right alias, then it'll make sense.
 
-#### Setup
+#### Setup/Usage
 ```sh
 alias uwu="chmod +x ./gate-guardian.sh && ./gate-guardian.sh || exit"
 ```
@@ -15,7 +15,7 @@ ___
 ### `calculator.cpp`
 A calculator a friend helped me create, him mostly doing the work; since I'm more newer to C++.
 
-#### Setup
+#### Setup/Usage
 ```
 # will show soon
 ```
@@ -23,7 +23,17 @@ ___
 ### `Collection.js`
 I'm constantly using this in my JS applications whenever possible.
 
-#### Setup
+#### Setup/Usage
 ```js
 const Collection = require(__dirname + "/directory & path of collection.js");
+const coll = new Collection();
+```
+___
+### `batch-spam.bat`
+This was some dumb script I made out of nowhere, citing "educational teaching" as the purpose.
+It's really bad, since it's from 2017.
+
+#### Setup/Usage
+```
+literally just run the file on a Windows PC.
 ```
