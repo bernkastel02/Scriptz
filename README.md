@@ -11,3 +11,11 @@ A script that doesn't let you use uwu, if you set it to the right alias, then it
 ```sh
 alias uwu="chmod +x ./gate-guardian.sh && ./gate-guardian.sh || exit"
 ```
+___
+### `calculator.cpp`
+A calculator a friend helped me create, him mostly doing the work; since I'm more newer to C++.
+
+#### Setup
+```
+# will show soon
+```
