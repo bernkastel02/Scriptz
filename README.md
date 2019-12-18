@@ -19,3 +19,11 @@ A calculator a friend helped me create, him mostly doing the work; since I'm mor
 ```
 # will show soon
 ```
+___
+### `Collection.js`
+I'm constantly using this in my JS applications whenever possible.
+
+#### Setup
+```js
+const Collection = require(__dirname + "/directory & path of collection.js");
+```
