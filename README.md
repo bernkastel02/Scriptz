@@ -10,6 +10,7 @@ A script that doesn't let you use uwu, if you set it to the right alias, then it
 #### Setup/Usage
 ```sh
 alias uwu="chmod +x ./gate-guardian.sh && ./gate-guardian.sh || exit"
+uwu # no uwu in my zone
 ```
 ___
 ### `calculator.cpp`
@@ -36,4 +37,12 @@ It's really bad, since it's from 2017.
 #### Setup/Usage
 ```
 literally just run the file on a Windows PC.
+```
+___
+### `rethink-install.sh`
+I wanted to install RethinkDB to multiple sources, so I made a basic script for such. I may turn it into a CLI, and a menu; because how it looks is really damn ugly right now.
+
+```sh
+alias rethink-install="curl https://raw.githubusercontent.com/memimoe/Scriptz/master/rethink-install | bash"
+rethink-install
 ```
